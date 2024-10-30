@@ -22,7 +22,7 @@ main {
 header {
     display: flex;
     margin-left: 36px;
-   
+
 }
 
 .img-logo {
@@ -33,25 +33,25 @@ header {
 
 .links-header {
     position: sticky;
-   margin-left: 10px;
-   margin-top: 46px;
-   cursor: pointer;
+    margin-left: 10px;
+    margin-top: 46px;
+    cursor: pointer;
 }
 
 .links-header img {
     height: 42px;
 }
 
-.links-header img:hover{
+.links-header img:hover {
     opacity: 0.8;
     transition: 0.2s;
 }
 
-.links-header img:active{
+.links-header img:active {
     opacity: 0.5;
 }
 
-.links-header button{
+.links-header button {
     border: 1px solid white;
     border-radius: 4px;
     color: white;
@@ -64,26 +64,26 @@ header {
     margin-left: 1460px;
 }
 
-.links-header button:hover{
+.links-header button:hover {
     opacity: 0.8;
     transition: 0.3s;
 }
 
-.links-header button:active{
+.links-header button:active {
     background: white;
     color: black;
     transition: 0.3s;
     opacity: 0.9;
 }
 
-.container-box-sub{
+.container-box-sub {
     display: flex;
     flex-direction: column;
     margin-top: 250px;
     align-items: center;
 }
 
-.container-box-sub h1{
+.container-box-sub h1 {
     color: rgba(255, 255, 255, 1);
     font-size: 48px;
     line-height: 72px;
@@ -92,7 +92,7 @@ header {
     width: 873px;
     text-align: center;
     position: sticky;
-    
+
 }
 
 .container-box-sub p {
@@ -118,40 +118,42 @@ header {
     box-shadow: 5px 10px 20px rgb(8, 8, 8);
 }
 
-.agender-time2:hover{
+.agender-time2:hover {
     opacity: 0.8;
     transition: 0.2s;
 }
 
-.agender-time2:active{
+.agender-time2:active {
     opacity: 0.6;
     transition: 0.2s;
 }
 
 
-.box-two{
+.box-two {
     display: flex;
     flex-direction: row;
     background: rgba(6, 18, 30, 1);
 }
 
-.box-two img{
+.box-two img {
     margin-left: 95px;
     height: 529px;
     width: 570px;
     margin-bottom: 50px;
 }
 
-.sct-two{
+.sct-two {
     color: white;
     margin-top: 30px;
     margin-left: 300px;
 }
-.sct-two h1{
+
+.sct-two h1 {
     font-size: 44px;
     margin-bottom: 30px;
 }
-.p-lorem-one{
+
+.p-lorem-one {
     height: 81px;
     width: 582px;
     font-weight: 500;
@@ -160,16 +162,16 @@ header {
     margin-bottom: 70px;
 }
 
-.p-agender{
+.p-agender {
     font-size: 18px;
     font-weight: 500;
 }
 
-.container-box3{
+.container-box3 {
     display: inline-block;
 }
 
-.cotainer-box3 h1{
+.cotainer-box3 h1 {
     color: rgba(6, 18, 30, 1);
     text-align: center;
     margin-top: 50px;
@@ -196,7 +198,7 @@ header {
     margin-bottom: 185px;
 }
 
-.corte-cabelo{
+.corte-cabelo {
     font-weight: 700;
     margin-right: 15px;
     border: 0px solid white;
@@ -204,7 +206,7 @@ header {
     box-shadow: 3px 3px 15px rgb(92, 92, 92);
 }
 
-.barba{
+.barba {
     font-weight: 700;
     margin-right: 15px;
     border: 0px solid white;
@@ -212,7 +214,7 @@ header {
     box-shadow: 3px 3px 15px rgb(92, 92, 92);
 }
 
-.cabelo-barba{
+.cabelo-barba {
     font-weight: 700;
     height: 389px;
     border: 0px solid white;
@@ -225,7 +227,7 @@ header {
     margin-top: 15px;
 }
 
-.box-container-cart button{
+.box-container-cart button {
     margin-left: 240px;
     background: rgba(217, 65, 64, 1);
     color: white;
@@ -238,34 +240,34 @@ header {
     cursor: pointer;
 }
 
-.box-container-cart button:hover{
+.box-container-cart button:hover {
     opacity: 0.8;
     transition: 0.3s;
 }
 
-.box-container-cart button:active{
+.box-container-cart button:active {
     opacity: 0.7;
     transition: 0.1s;
 }
 
-.container-semi{
+.container-semi {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-.container-semi h1{
+.container-semi h1 {
     margin-bottom: 50px;
     font-size: 34px;
     color: rgba(6, 18, 30, 1);
 }
 
-.container-semi iframe{
+.container-semi iframe {
     width: 2000px;
     height: 512px;
 }
 
-.final{
+.final {
     display: flex;
     flex-direction: column;
     height: 512px;
@@ -273,34 +275,34 @@ header {
     background: rgba(6, 18, 30, 1);
 }
 
-.rodape-links img{
+.rodape-links img {
     height: 32px;
     width: 32px;
 }
 
-.rodape-links img:hover{
+.rodape-links img:hover {
     opacity: 0.8;
     transition: 0.3s;
 }
 
-.rodape-links img:active{
+.rodape-links img:active {
     opacity: 0.5;
     transition: 0.3s;
 }
 
-.rodape-links{
+.rodape-links {
     margin-left: 888px;
     margin-top: 50px;
     margin-bottom: 30px;
 }
 
-.logo-2{
+.logo-2 {
     height: 196px;
     width: 166px;
     margin-left: 860px;
 }
 
-.whatssapp img{
+.whatssapp img {
     height: 73px;
     width: 73px;
     float: right;
@@ -308,9 +310,281 @@ header {
     margin-top: 80px;
 }
 
-.final p{
+.final p {
     color: white;
     font-weight: 500;
     font-size: 16px;
     text-align: center;
+}
+
+/* responsividade para celular */
+
+@media screen and (max-width: 767px) {
+
+    body{
+        width: 390px;
+    }
+
+    .container-box-main {
+        background-image: url(./assets/bg.svg);
+        height: 1070px;
+        width: 390px;
+    }
+    
+    header {
+        display: flex;
+        margin-left: 36px;
+    
+    }
+    
+    .img-logo {
+        height: 240px;
+        margin-top: 150px;
+        margin-left: 50px;
+        position: absolute;
+    }
+    
+    .links-header {
+        position: sticky;
+        margin-left: 50px;
+        margin-top: 46px;
+    }
+    
+    .links-header img{
+        height: 40px;
+    }
+
+    .links-header button {
+        display: none;
+    }
+
+    .container-box-sub h1 {
+        color: rgba(255, 255, 255, 1);
+        font-size: 25px;
+        line-height: 30px;
+        font-weight: 500;
+        height: 104px;
+        width: 353px;
+        text-align: center;
+        position: sticky;
+        margin-top: 110px;
+    }
+
+    .container-box-sub p{
+        display: none;
+    }
+
+    .agender-time2 {
+        height: 66px;
+        width: 292px;
+        margin-top: 30px;
+        cursor: pointer;
+        background: rgba(217, 65, 64, 1);
+        border: none;
+        color: white;
+        border-radius: 2px;
+        font-weight: 700;
+        font-size: 17px;
+        box-shadow: 5px 10px 20px rgb(8, 8, 8);
+    }
+    
+    .agender-time2:hover {
+        opacity: 0.8;
+        transition: 0.2s;
+    }
+    
+    .agender-time2:active {
+        opacity: 0.6;
+        transition: 0.2s;
+    }
+
+    .box-two {
+        display: flex;
+        flex-direction: row;
+        background: rgba(6, 18, 30, 1);
+        width: 390px;
+        height: 800px;
+    }
+
+    .sct-two {
+        display: flex;
+        flex-direction: column;
+        color: white;
+        margin-top: 350px;
+        margin-left: 50px;
+    }
+    
+    .sct-two h1 {
+        font-size: 44px;
+        margin-bottom: 30px;
+        margin-left: 60px;
+    }
+    
+    .p-lorem-one {
+        text-align: center;
+        height: 81px;
+        width: 280px;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 27px;
+    }
+    
+    .p-agender {
+        font-size: 18px;
+        font-weight: 200;
+        margin-top: 135px;
+        text-align: center;
+        width: 280px;
+    }
+    
+    .box-two img {
+        position: absolute;
+        text-align: left;
+        margin-left: 30px;
+        width: 300px;
+        height: 280px;
+        margin-bottom: 50px;
+    }
+    
+    .container-box3 {
+        display: flex;
+        flex-direction: column;
+        width: 390px;
+    }
+    
+    .cotainer-box3 h1 {
+        color: rgba(6, 18, 30, 1);
+        text-align: left;
+        font-size: 44px;
+        margin-left: 70px;
+        margin-bottom: 30px;
+        font-weight: 700;
+    }
+    
+    .p-servicie {
+        display: none;
+    }
+    
+    .box-container-cart img{
+        width: 300px;
+    }
+
+    .box-container-cart {
+        width: 315px;
+        display: flex;
+        flex-direction: column;
+        margin-left: 40px;
+    }
+    
+    .corte-cabelo {
+        font-weight: 700;
+        margin-right: 15px;
+        border: 0px solid white;
+        border-radius: 10px;
+        box-shadow: 3px 3px 15px rgb(92, 92, 92);
+    }
+    
+    .barba {
+        margin-top: 35px;
+        font-weight: 700;
+        margin-right: 15px;
+        border: 0px solid white;
+        border-radius: 10px;
+        box-shadow: 3px 3px 15px rgb(92, 92, 92);
+    }
+    
+    .cabelo-barba {
+        margin-top: 35px;
+        font-weight: 700;
+        height: auto;
+        width: 300px;
+        border: 0px solid white;
+        border-radius: 10px;
+        box-shadow: 3px 3px 15px rgb(92, 92, 92);
+    }
+    
+    .box-container-cart p {
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+    
+    .box-container-cart button {
+        margin-left: 185px;
+        margin-bottom: 20px;
+        background: rgba(217, 65, 64, 1);
+        color: white;
+        border: none;
+        border-radius: 8px;
+        font-size: 14px;
+        height: 34px;
+        width: 95px;
+        font-weight: 500;
+    }
+    
+    .box-container-cart button:hover {
+        opacity: 0.8;
+        transition: 0.3s;
+    }
+    
+    .box-container-cart button:active {
+        opacity: 0.7;
+        transition: 0.1s;
+    }
+
+    .container-semi {
+        width: 390px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .container-semi h1 {
+        text-align: left;
+        margin-bottom: 50px;
+        font-size: 34px;
+        color: rgba(6, 18, 30, 1);
+    }
+    
+    .container-semi iframe {
+        width: 300px;
+        height: 300px;
+        margin-bottom: 50px;
+    }
+
+    .final {
+        width: 390px;
+        display: flex;
+        flex-direction: column;
+        height: 600px;
+        background: rgba(6, 18, 30, 1);
+    }
+    
+    .rodape-links img {
+        display: none;
+    }
+    
+    .logo-2 {
+        margin-top: 50px;
+        text-align: left;
+        height: 240px;
+        width: 300px;
+        margin-left: 37px;
+    }
+    
+    .whatssapp img {
+        height: 63px;
+        width: 63px;
+        float: right;
+        margin-right: 30px;
+        margin-top: 70px;
+    }
+    
+    .final p {
+        margin-top: 25px;
+        color: white;
+        font-weight: 500;
+        font-size: 16px;
+        text-align: center;
+    }
+
 }
